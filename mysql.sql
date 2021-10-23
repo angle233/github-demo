@@ -1,1 +1,2 @@
-select * from tbl;
+select * from tbl
+where 1=1;
